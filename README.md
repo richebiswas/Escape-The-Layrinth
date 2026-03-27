@@ -92,7 +92,7 @@ This project is built using **HTML, CSS, and JavaScript**, focusing on immersive
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Krittika Biswas**
 
 ---
 
