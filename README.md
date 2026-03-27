@@ -90,7 +90,7 @@ This project is built using **HTML, CSS, and JavaScript**, focusing on immersive
 
 ---
 ## 🎮 Live Demo
-👉 https://richebiswas.github.io/escape-the-labyrinth/
+👉 https://richebiswas.github.io/Escape-The-Layrinth/
 
 ## 👨‍💻 Author
 
