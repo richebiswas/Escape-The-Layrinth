@@ -89,6 +89,8 @@ This project is built using **HTML, CSS, and JavaScript**, focusing on immersive
 * Enemy/AI mechanics
 
 ---
+## 🎮 Live Demo
+👉 https://richebiswas.github.io/escape-the-labyrinth/
 
 ## 👨‍💻 Author
 
