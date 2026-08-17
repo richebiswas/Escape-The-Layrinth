@@ -1,5 +1,8 @@
 # 🔮 Escape The Labyrinth | Horror Escape Room Game
 
+## 🎮 Live Demo
+👉 https://richebiswas.github.io/Escape-The-Layrinth/
+
 ## 🧩 Overview
 
 **Escape The Labyrinth** is a browser-based horror escape room game where players must solve puzzles, uncover hidden clues, and escape a mysterious laboratory before time runs out.
@@ -89,8 +92,7 @@ This project is built using **HTML, CSS, and JavaScript**, focusing on immersive
 * Enemy/AI mechanics
 
 ---
-## 🎮 Live Demo
-👉 https://richebiswas.github.io/Escape-The-Layrinth/
+
 
 ## 👨‍💻 Author
 
